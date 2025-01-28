@@ -64,6 +64,7 @@ target_include_directories(canokey-core SYSTEM
         interfaces/USB/core/inc
         interfaces/USB/class/ccid
         interfaces/USB/class/ctaphid
+        interfaces/USB/class/hid
         interfaces/USB/class/kbdhid
         interfaces/USB/class/webusb
         tinyusb/src
