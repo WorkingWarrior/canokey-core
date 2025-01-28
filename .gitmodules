@@ -1,6 +1,3 @@
-[submodule "canokey-crypto"]
-	path = canokey-crypto
-	url = https://github.com/canokeys/canokey-crypto.git
 [submodule "littlefs"]
 	path = littlefs
 	url = https://github.com/ARMmbed/littlefs.git
@@ -13,3 +10,6 @@
 [submodule "tinyusb"]
 	path = tinyusb
 	url = https://github.com/canokeys/tinyusb
+[submodule "canokey-crypto"]
+	path = canokey-crypto
+	url = https://github.com/WorkingWarrior/canokey-crypto.git
